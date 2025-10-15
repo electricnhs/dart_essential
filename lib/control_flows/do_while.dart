@@ -1,5 +1,5 @@
 void main() {
-  int number = 10;
+  int number = 8;
   // Do-While loop executes the loop body at least once before checking the condition
   do {
     print('Number : $number');
