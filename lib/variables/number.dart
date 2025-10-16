@@ -1,5 +1,5 @@
 void main() {
-  int age = 25; // Integer variable
-  double height = 175.5; // Double variable with decimal
+  int age = 25; 
+  double height = 175.5; 
   print('Age: $age, Height: $height cm');
 }

@@ -1,5 +1,5 @@
 void main() {
-  dynamic jsonValue = 'Hello'; // Can change type
-  jsonValue = 42; // Now an integer, still valid
+  dynamic jsonValue = 'Hello';
+  jsonValue = 42; 
   print('Dynamic value: $jsonValue');
 }

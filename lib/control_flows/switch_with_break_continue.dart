@@ -1,5 +1,5 @@
 void main() {
-  String day = 'Monday';
+  String day = 'Friday';
   switch (day) {
     case 'Monday':
       print('Start of the work week');

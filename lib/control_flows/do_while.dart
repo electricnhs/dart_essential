@@ -1,8 +1,7 @@
 void main() {
-  int number = 8;
-  // Do-While loop executes the loop body at least once before checking the condition
+  int number = 10;
   do {
     print('Number : $number');
-    number--; // Decrement number to eventually terminate the loop
-  } while (number > 5);
+    number--; 
+  } while (number > 4);
 }

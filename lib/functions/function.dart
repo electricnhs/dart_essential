@@ -1,11 +1,11 @@
 void main() {
-  greetUser('Andri');
+  greetUser('Bongga');
 
-  final welcomeMessage = getWelcomeMessage('Andri');
+  final welcomeMessage = getWelcomeMessage('Bongga');
   print(welcomeMessage);
 
-  final area = calculateCircleArea(5);
-  print('Area of circle with radius 5: $area');
+  final area = calculateCircleArea(6);
+  print('Area of circle with radius 6: $area');
 }
 
 void greetUser(String name) {

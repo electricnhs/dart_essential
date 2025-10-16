@@ -1,4 +1,4 @@
 void main(){
-  String hearth = '\u{1F9E1}';
+  String hearth = '\u{1f44d}';
   print('Rune: $hearth');
 }

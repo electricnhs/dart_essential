@@ -2,6 +2,6 @@ void main() {
   const list = ['apple', 'banana', 'cherry'];
   final upperCaseList = list
       .map((item) => item.toUpperCase())
-      .toList(); // Map each item to uppercase, using an anonymous function
+      .toList(); 
   print('Uppercase List: $upperCaseList');
 }

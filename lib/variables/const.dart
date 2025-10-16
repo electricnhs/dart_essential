@@ -1,4 +1,4 @@
 void main(){
-  const double pi = 3.14159; // Value of pi, never changes
+  const double pi = 3.14159; 
   print('Pi: $pi');
 }

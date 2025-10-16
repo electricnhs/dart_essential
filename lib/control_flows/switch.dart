@@ -1,5 +1,5 @@
 void main() {
-  var type = 'File';
+  var type = 'Image';
   switch (type) {
     case 'File':
       print('This is a file');
