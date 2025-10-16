@@ -1,8 +1,8 @@
 void main() {
   Set<String> fruits = {
-    'apple',
+    'grape',
     'banana',
-    'orange',
+    'watermelon',
   }; // Define a set, duplicates are ignored
   print('Fruits: $fruits');
 }
